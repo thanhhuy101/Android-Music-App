@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "468557547106",
+    "firebase_url": "https://spotify-6e624-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "spotify-6e624",
+    "storage_bucket": "spotify-6e624.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:468557547106:android:0358a37f9d4ea18fd6333b",
+        "android_client_info": {
+          "package_name": "com.example.onlinemusicappclient"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "468557547106-2h7fi1i7bq5kge5dal19vg563kk683nc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYdk2L6JrboxZ_YdGQggv2lFGNGmWlAEA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "468557547106-2h7fi1i7bq5kge5dal19vg563kk683nc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:468557547106:android:4983d321e0452fb4d6333b",
+        "android_client_info": {
+          "package_name": "com.example.spotify"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "468557547106-2h7fi1i7bq5kge5dal19vg563kk683nc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYdk2L6JrboxZ_YdGQggv2lFGNGmWlAEA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "468557547106-2h7fi1i7bq5kge5dal19vg563kk683nc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
